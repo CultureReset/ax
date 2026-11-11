@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/ax](https://github.com/google/ax).** Agent Executor (AX) is Google's open agentic orchestration runtime.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/ax).
+>
+> The upstream README follows unchanged.
+
+---
+
 <h1>
   <img src="assets/axolotl.svg" width="70" align="absmiddle" alt="AX axolotl">
   AX
